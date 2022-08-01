@@ -18,5 +18,5 @@ ORGANIZATION:
 The project contains two main folders. The folder CHAOS contains the code used for paper 1), the folder CDC contains the code used for paper 2), the folder COEVOLUTIONARY contains the code used for paper 3).
 CHAOS contains a set of files titled "Fig#", which genenerate the corresponding figure in the paper. 
 CDC contains the file "script.m", which generates the simulation used in the paper.
-COEVOLUTIONARY contains a set of files titled "Fig#", which genenerate the corresponding figure in the paper. 
+COEVOLUTIONARY contains a set of files titled "Fig_#", which genenerate the corresponding figure in the paper. 
 The details on the parameters are reported in the paper and in the MATLAB code. 
